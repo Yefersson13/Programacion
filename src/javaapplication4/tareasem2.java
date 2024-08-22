@@ -5,8 +5,10 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- *
- * @author Yefersson
+ *Haz un programa que saque el area de un campo de futbol cuadrado
+ * que al ingresar nummero del area, saque la longitud total de las vallas que
+ * rodean el campo.
+ * Yefersson
  */
 public class tareasem2 {
     public static void main(String[] args) {
